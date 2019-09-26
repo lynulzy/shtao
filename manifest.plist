@@ -24,7 +24,7 @@
 
 <key>url</key>
 
-<string>.ipa文件下载路径</string>
+<string>https://gitee.com/shihuo/shtao/blob/master/Target.ipa</string>
 
 </dict>
 
@@ -36,7 +36,7 @@
 
 <key>url</key>
 
-<string>image.57x57.png图片下载路径</string>
+<string>https://gitee.com/shihuo/shtao/blob/master/AppIcon57x57.png</string>
 
 </dict>
 
@@ -48,7 +48,7 @@
 
 <key>url</key>
 
-<string>image.512x512.png图片下载路径</string>
+<string>https://gitee.com/shihuo/shtao/blob/master/AppIcon512x512.png</string>
 
 </dict>
 
@@ -60,7 +60,7 @@
 
 <key>bundle-identifier</key>
 
-<string>应用的bundle-identifier</string>
+<string>com.taobao.taobao4iphone.sh</string>
 
 <key>bundle-version</key>
 
@@ -72,7 +72,7 @@
 
 <key>title</key>
 
-<string>下载时提示是否安装改应用的应用名字</string>
+<string>sh手机淘宝</string>
 
 </dict>
 
